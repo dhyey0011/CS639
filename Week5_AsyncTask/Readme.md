@@ -9,7 +9,7 @@
 - I built an app that has one TextView and one Button. When the user clicks the Button, the app sleeps for a random amount of time, and then displays a message in the TextView when it wakes up. Here are the attached screenshots for finished application.
 #
 <img src="https://user-images.githubusercontent.com/76675965/223600652-6a1229ed-11e7-454d-9b4f-807269aa76db.jpg" width="400" height="700">
-<img src="https://user-images.githubusercontent.com/76675965/223600616-6388152f-29d5-4a1e-bc42-15ada86459e3.jpg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/76675965/223600616-6388152f-29d5-4a1e-bc42-15ada86459e3.jpg" width="700" height="400">
 
 #
 
@@ -24,4 +24,4 @@
 
 - Here is how the finished application looks like.
 <img src="https://user-images.githubusercontent.com/76675965/223602637-d9a14870-34a9-4bd5-b3d0-68b029dc03c3.jpg" width="400" height="700">
-<img src="https://user-images.githubusercontent.com/76675965/223602645-0c95cf6f-2156-4d92-aeb0-34bffee1ce47.jpg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/76675965/223602645-0c95cf6f-2156-4d92-aeb0-34bffee1ce47.jpg" width="700" height="400">
