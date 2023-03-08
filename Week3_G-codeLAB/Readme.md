@@ -5,7 +5,7 @@
 - In this practical you learn how to install Android Studio, the Android development environment. You also create and run your first Android app, Hello World, on an emulator and on a physical device.
 - After you successfully install Android Studio, you will create, from a template, a new project for the Hello World app. This simple app displays the string "Hello World" on the screen of the Android virtual or physical device.
 - Here's what the finished app will look like:
-- ![Codelab1](https://user-images.githubusercontent.com/76675965/223603504-e7643865-fe35-4f1a-be5a-c32d4b3019cf.jpg)
+<img src="https://user-images.githubusercontent.com/76675965/223603504-e7643865-fe35-4f1a-be5a-c32d4b3019cf.jpg" width="100" height="100">
 #
 
 # Hello Toast
@@ -26,7 +26,7 @@ For example, the MainActivity code in the Hello World app displays a layout defi
 In more complex apps, an Activity might implement actions to respond to user taps, draw graphical content, or request data from a database or the internet. You learn more about the Activity class in another lesson.
 - The HelloToast app consists of two Button elements and one TextView. When the user taps the first Button, it displays a short message (a Toast) on the screen. Tapping the second Button increases a "click" counter displayed in the TextView, which starts at zero.
 - Here is how the finished application looks like.
-![codelab1 2A](https://user-images.githubusercontent.com/76675965/223603821-613dc6c6-7657-4694-8f09-08c4d4c5cf08.jpg)
+<img src="https://user-images.githubusercontent.com/76675965/223603821-613dc6c6-7657-4694-8f09-08c4d4c5cf08.jpg" width="100" height="100">
 
 # Scrolling Text
 
@@ -42,5 +42,5 @@ Complex layouts may suffer performance issues with child views such as images. A
 With a ScrollView, all of the UI elements are in memory and in the view hierarchy even if they aren't displayed on screen. This makes ScrollView ideal for scrolling pages of free-form text smoothly, because the text is already in memory. However, ScrollView can use up a lot of memory, which can affect the performance of the rest of your app.
 - The Scrolling Text app demonstrates the ScrollView UI component. ScrollView is a ViewGroup that in this example contains a TextView. It shows a lengthy page of text—in this case, a music album review—that the user can scroll vertically to read by swiping up and down. A scroll bar appears in the right margin. The app shows how you can use text formatted with minimal HTML tags for setting text to bold or italic, and with new-line characters to separate paragraphs. You can also include active web links in the text.
 - Here is How the finished app looks like : 
-![Scrolling_text](https://user-images.githubusercontent.com/76675965/223604550-59020c4d-9eb9-44f2-9684-a59be417bed7.jpg)
+<img src="https://user-images.githubusercontent.com/76675965/223604550-59020c4d-9eb9-44f2-9684-a59be417bed7.jpg" width="100" height="100">
 
